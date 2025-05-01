@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pop!_OS OpenVPN Client
+Comment=Manage OpenVPN connections
+Exec=/usr/bin/python3 /path/to/openvpn_client.py
+Icon=network-vpn
+Terminal=false
+Type=Application
+Categories=Network;
+Keywords=VPN;Network;OpenVPN;
